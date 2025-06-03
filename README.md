@@ -10,7 +10,6 @@ ClarityFlow is a modern, minimalistic task manager built using **React** (fronte
 - 🎬 **Smooth Animations** with `react-transition-group`
 - 📝 **Task Prioritization**
 - 📅 **Timestamp Tracking**
-- 🔀 **Multi-page Routing** *(Coming Soon)*
 
 ## 🚀 Getting Started
 
